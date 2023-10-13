@@ -1,6 +1,4 @@
 node_modules/
 *.log
-*.babelrc
-*.mocharc.yaml
 package-lock.json
 mochawesome-report
