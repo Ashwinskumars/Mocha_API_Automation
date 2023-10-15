@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.742" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-10-13T01:33:47" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="All request call" timestamp="2023-10-13T01:33:47" tests="0" file="D:\download\LearningPath\Project\Mocha-APIAutomation\API-Automation\test\CombinationAllRequest_users.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="POST Api calls" timestamp="2023-10-13T01:33:47" tests="1" file="D:\download\LearningPath\Project\Mocha-APIAutomation\API-Automation\test\CombinationAllRequest_users.js" time="0.536" failures="0">
+    <testcase name="All request call POST Api calls post request create  user data in body" time="0.533" classname="post request create  user data in body">
+    </testcase>
+  </testsuite>
+  <testsuite name="Get Api calls" timestamp="2023-10-13T01:33:47" tests="1" file="D:\download\LearningPath\Project\Mocha-APIAutomation\API-Automation\test\CombinationAllRequest_users.js" time="0.428" failures="0">
+    <testcase name="All request call Get Api calls get request have data in body based on ID" time="0.428" classname="get request have data in body based on ID">
+    </testcase>
+  </testsuite>
+  <testsuite name="PUT Api calls" timestamp="2023-10-13T01:33:48" tests="1" file="D:\download\LearningPath\Project\Mocha-APIAutomation\API-Automation\test\CombinationAllRequest_users.js" time="0.358" failures="0">
+    <testcase name="All request call PUT Api calls put request to update user data in body" time="0.357" classname="put request to update user data in body">
+    </testcase>
+  </testsuite>
+  <testsuite name="DELETE Api calls" timestamp="2023-10-13T01:33:48" tests="1" file="D:\download\LearningPath\Project\Mocha-APIAutomation\API-Automation\test\CombinationAllRequest_users.js" time="0.418" failures="0">
+    <testcase name="All request call DELETE Api calls delete request to remove user data in body" time="0.417" classname="delete request to remove user data in body">
+    </testcase>
+  </testsuite>
+</testsuites>
